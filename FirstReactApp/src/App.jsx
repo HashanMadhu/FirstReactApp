@@ -4,6 +4,8 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Header from './component/Header'
 import "./App.css";
+import About from './component/About'
+
 
 function App() {
   const [count, setCount] = useState(0)
@@ -11,10 +13,7 @@ function App() {
   return (
     <div>
       <Header />
-      <main className="content">
-        <h2>Welcome to My React App</h2>
-        <p>This is a simple header with navigation.</p>
-      </main>
+      <About />
     </div>
   )
 }
