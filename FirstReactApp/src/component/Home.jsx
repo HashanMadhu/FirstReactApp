@@ -7,9 +7,9 @@ export default function Home() {
       {/* Hero Section */}
       <section className="hero">
         <div className="hero-text">
-          <h1>Welcome to The Lake & Resorts</h1>
-          <p>Experience luxury, comfort, and breathtaking views at our exclusive resort.</p>
-          <a href="/booking" className="btn">Book Your Stay</a>
+          <h1>Welcome to the Hashan Madhuranga Dissanayaka First React App</h1>
+          <p><b><u><i>Undergraduate Ruhuna University (BICT Hons.)</i></u></b></p>
+          <a href="/booking" className="btn">View App</a>
         </div>
       </section>
 
